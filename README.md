@@ -5,7 +5,8 @@
 <!-- You can replace this URL with your own banner image -->
 ![Profile Banner](https://drive.google.com/uc?export=view&id=1wNrXallxzwth50tdECoORZ60k38ZzmwJ)
 
-# 👋 Hey there, I'm **Rachit Mangawa**
+# 👋 Hey there, I'm **Rachit Mangawa** ![Visitors](https://komarev.com/ghpvc/?username=IDKHowToCodeFR&label=Profile%20views&color=0e75b6&style=for-the-badge)
+
 
 ### 🚀 About Me
 - 🎓 Student at **Netaji Subhas University of Technology**
@@ -46,7 +47,8 @@
 
 ### 📫 How to Reach Me
 
-- Email: [mangawa.rachit701@gmail.com](mailto:mangawa.rachit701@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mangawa.rachit701@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-mangawa/)
 - Feel free to connect for collaborations or help!
 
 
